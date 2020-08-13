@@ -141,7 +141,7 @@ class FormCreate {
 var fGA = new FormCreate(
     "form-group-add-open",
     "form-group-add",
-    "fun/createGroup",
+    "#",
     "post",
     "Dodawanie grupy",
     (fGA) => {
